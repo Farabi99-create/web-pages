@@ -1,0 +1,4 @@
+function showSurprise() {
+    const surpriseDiv = document.getElementById('surprise');
+    surpriseDiv.style.display = 'block';
+}

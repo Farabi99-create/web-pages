@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy New Year</title>
+    <link rel="stylesheet" href="styles.css">
+    	<link rel="stylesheet" href="responsive.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Happy New Year, My Love, Nadu Akter Riya </h1>
+        <p>You make every year special, and I can't wait to spend another wonderful year with you!</p>
+        <button onclick="showSurprise()">Click for a Surprise!</button>
+        <div class="surprise" id="surprise">
+            <img src="Riya_and_I.jpg" alt="Love You!">
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
